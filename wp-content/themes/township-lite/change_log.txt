@@ -1,0 +1,30 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) footer text changed
+ii) widget areas fixed
+iii) heading fixed
+iv) Tables corrected
+v) Nested ordered corrected
+
+Version 1.1.1
+i) Changed theme version 4.7+ to 4.8.
+ii) Changed the translation ready in page.php.
+iii) Changed the excerpt_more.
+iv) changed ... to &hellip.
+v) Solved the Console error.
+vi) Front page template is like screenshot.
+vii) Removed the left sidebar, editor style from the style.css.
+viii) Done all the prefixing 
+ix) Removed the continue reading link.
+x) Removed hiii.
+xi) Removed the Post thumbnail img tag.
+
+Version 1.1.2
+i) Removed the slider images.
+ii) Changed the layout of blog.
+iii) You have to add the pages and set featured images in those pages and then Go to customizer >> slider setting and select the pages which you added.
+iv) In this you have to first made one category and add some post in this category.then go to customizer >> Our Amenties add your title and select the category that you have made.
+v) Removed depreceated functions.
+vi) Done the customization.
